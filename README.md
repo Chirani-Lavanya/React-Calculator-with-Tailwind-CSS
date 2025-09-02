@@ -1,10 +1,23 @@
-# React-Calculator-with-Tailwind-CSS
+# React Calculator (Basic Version)
 
-React Calculator with Tailwind CSS A simple and responsive calculator built with React and Tailwind CSS. 
+A simple functional calculator built with **React + Vite**.  
 
-It supports basic arithmetic operations (+, -, *, /) and includes a clear button. 
+## 🚀 Features
+- Built with React + Vite for fast setup and performance
+- Lightweight, minimal design with CSS
+- Handles basic arithmetic operations
+- Focused on learning core React concepts
 
-The UI is fully styled using Tailwind classes, making it mobile-friendly and visually appealing.
+## 📂 Project Structure
+- `src/App.jsx` → Main calculator logic and UI
+- `src/main.jsx` → App entry point
+- `src/style.css` → Basic CSS styling
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
 
 <img width="1920" height="988" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/fc2432f0-5748-4093-ad00-d06ff955a0c4" />
 
